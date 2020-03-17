@@ -1,8 +1,14 @@
 <?page title="new page title" contentType="text/html;charset=UTF-8"?>
 <zk>
-<window title="new page title" border="normal">
-chan ong vl
+	<window title="new page title" border="normal">
+		chan ong vl
 
-<apply templateURI="~./gayto.zul" />
-</window>
+		<apply templateURI="~./gayto.zul" />
+
+		<ckeditor width="850" />
+		<label value="woe woe woe uu u uu u u u" />
+		<label value="awdfawdaw"/>
+		<label value="a11121212wdfawdaw"/>
+
+	</window>
 </zk>
